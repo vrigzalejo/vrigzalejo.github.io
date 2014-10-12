@@ -1,0 +1,28 @@
+{
+	"messages": [
+		{
+			"message" : [
+			   "Welcome!",
+			   "To my portfolio site",
+			   "I'm ready to innovate",
+			   "For you..."
+			]
+		},
+		{
+			"message" : [
+			   "Hi!",
+			   "Need help?",
+			   "I'm ready",
+			   "Too help you..."
+			]
+		},
+		{
+			"message" : [
+			   "Hello!",
+			   "Can I help you?",
+			   "I'm here",
+			   "To do the job..."
+			]
+		}
+	]
+}
