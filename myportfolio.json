@@ -24,5 +24,26 @@
 			   "To do the job..."
 			]
 		}
+	],
+	"portfolio": [
+		{
+			"title": "",
+			"description": "",
+			"images": [
+				{"alt": "", "src": ""},
+				{"alt": "", "src": ""},
+				{"alt": "", "src": ""},
+				{"alt": "", "src": ""}
+			],
+			"links": [
+				{"title": "", "url": ""},
+				{"title": "", "url": ""},
+				{"title": "", "url": ""},
+				{"title": "", "url": ""}
+			],
+			"language": "",
+			"tools": "",
+			"date": ""
+		}
 	]
 }
