@@ -1,4 +1,11 @@
-<div class="jumbotron flat-box-shadow" id="workMessages" data-stellar-background-ratio="0.7"> <h2 class="orbitron white work-messages"></h2> <a class="arrow-wrap-down" ng-click="goTo('portfolio')"> <span class="arrow-down"></span> <!--<span class="hint">scroll</span>--> </a> </div> <div class="jumbotron flat-box-shadow" id="portfolio"> <div class="row"> <div class="input-group col-centered input-group-lg col-8-xs col-sm-8 col-md-8 col-lg-8"> <input class="form-control" type="search" ng-model="po" placeholder="Search"> <span class="input-group-addon"><i class="ion-ios7-search"></i></span> </div> <div ng-repeat="p in portfolio | filter:po" class="animation box-scene col-12-xs col-sm-12 col-lg-4"> <div class="box"> <div class="front face"> <img src="http://placehold.it/180x180/" alt> </div> <div class="side face"> {{ p.title }} </div> </div> </div> </div> </div> <!-- <div class="row marketing">
+<div class="jumbotron flat-box-shadow" id="workMessages" data-stellar-background-ratio="0.7"> <h2 class="orbitron white work-messages"></h2> <a class="arrow-wrap-down" ng-click="goTo('portfolio')"> <span class="arrow-down"></span> <!--<span class="hint">scroll</span>--> </a> </div> <div class="jumbotron flat-box-shadow" id="portfolio"> <div class="row"> <div class="inner-addon right-addon col-centered input-group-lg col-8-xs col-sm-8 col-md-8 col-lg-8"> <i class="fa fa-search"></i> <input class="form-control" type="search" ng-model="po" placeholder="Search"> </div> <!-- <div ng-repeat="p in portfolio | filter:po" class='animation col-12-xs col-sm-12 col-lg-4'> --> <!--     <div ng-repeat="p in portfolio | filter:po" class='ch-grid animation'> --> <!--       <div class='box'>
+        <div class='front face'>
+          <img src='http://placehold.it/180x180/' alt=''>
+        </div>
+        <div class="side face">
+           {{ p.title }}
+        </div>
+      </div> --> <ul class="ch-grid"> <li ng-repeat="p in portfolio | filter:po" class="animation"> <div class="ch-item ch-img"> <div class="ch-info-wrap"> <div class="ch-info"> <div class="ch-info-front ch-img"></div> <div class="ch-info-back"> <h3>{{ p.title }}</h3> <p>by Vrigz Alejo <a href="#">View</a></p> </div> </div> </div> </div> </li> </ul> <!-- </div> --> </div> </div> <!-- <div class="row marketing">
   <h4>HTML5 Boilerplate</h4>
   <p>
     HTML5 Boilerplate is a professional front-end template for building fast, robust, and adaptable web apps or sites.
