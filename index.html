@@ -1,11 +1,153 @@
-<!doctype html> <html lang="en" class="no-js" ng-app="vrigzonlinegithubioApp"> <head> <meta charset="utf-8"> <title ng-bind="'Vrigz Alejo&#58; ' + title"></title> <meta name="description" content="Vrigz Alejo portfolio site"> <meta name="viewport" content="width=device-width"> <meta name="robots" content="index, follow"> <link rel="shortcut icon" type="image/ico" href="favicon.ico"> <link rel="stylesheet" href="styles/vendor.3b3c7bee.css"> <link rel="stylesheet" href="styles/main.51fe3557.css">  <body id="body"> <!--[if lt IE 7]>
+<!doctype html>
+<html lang="en" class="no-js" ng-app="vrigzonlinegithubioApp">
+<head>
+  <meta charset="utf-8">
+  <title ng-bind="'Vrigz Alejo&#58; ' + title"></title>
+  <meta name="description" content="Vrigz Alejo portfolio site">
+  <meta name="viewport" content="width=device-width">
+  <meta name="robots" content="index, follow">
+
+  <link rel="shortcut icon" type="image/ico" href="favicon.ico" />
+  <!-- build:css(.) styles/vendor.css -->
+  <!-- bower:css -->
+  <link rel="stylesheet" href="bower_components/animate-css/animate.css" />
+  <link rel="stylesheet" href="bower_components/ionicons/css/ionicons.css" />
+  <link rel="stylesheet" href="bower_components/font-awesome/css/font-awesome.css" />
+  <link rel="stylesheet" href="bower_components/pace/themes/black/pace-theme-big-counter.css" />
+  <!-- endbower -->
+  <!-- endbuild -->
+  <!-- build:css(.tmp) styles/main.css -->
+  <link rel="stylesheet" href="styles/main.css">
+  <!-- endbuild -->
+
+</head>
+<body id="body">
+    <!--[if lt IE 7]>
       <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
-      <![endif]--> <!-- Site's or application's content here --> <div class="navbar navbar-default navbar-fixed-top" role="navigation" ng-controller="IndexCtrl"> <div class="container"> <div class="navbar-header"> <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button> <div class="small-logo-container pacifico"> <a href="#body" du-smooth-scroll class="small-logo small-logo-big">Vrigz Alejo</a> </div> </div> <div class="navbar-collapse collapse"> <ul class="nav nav-pills navbar-nav navbar-right"> <li ng-class="{ active: isActive('/') }" class="works" style="display:none"><a href="#" class="animated-hover1"><i class="ion-code-working"></i> Works</a></li> <li ng-class="{ active: isActive('/about') }" class="about" style="display:none"><a href="#/about" class="animated-hover1"><i class="ion-clipboard"></i> About</a></li> <li class="blog" style="display:none"><a href="//myblog-vrigzalejo.rhcloud.com/" class="animated-hover1"><i class="ion-android-user-menu"></i> Blog</a></li> </ul> </div><!--/.nav-collapse --> </div> </div> <div class="container"> <div class="support-note text-justify alert alert-danger alert-dismissible" role="alert"> <!-- let's check browser support with modernizr --> <!--span class="no-cssanimations">CSS animations are not supported in your browser</span--> <button type="button" class="close" data-dismiss="alert"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button> <i class="ion-heart-broken"></i> <div class="no-js">No Javascript, please turn on your javascript so that the site will function properly.</div> <div class="no-csstransforms">CSS transforms are not supported in your browser.</div> <div class="no-csstransforms3d">CSS 3D transforms are not supported in your browser.</div> <div class="no-csstransitions">CSS transitions are not supported in your browser.</div> </div> <div ng-view=""></div> <div id="footer" class="jumbotron footer flat-box-shadow"> <a href="//www.facebook.com/vrigzonline.ph" class="animated-hover1"><i class="ion-social-facebook"></i></a> <a href="//twitter.com/vrigzalejo" class="animated-hover1"><i class="ion-social-twitter"></i></a> <a href="//github.com/vrigzonline" class="animated-hover1"><i class="ion-social-github"></i></a> <a href="#" class="animated-hover1"><i class="ion-social-linkedin"></i></a> </div> </div> <div class="scroll-top-wrapper" ng-controller="IndexCtrl"> <a href="#body" class="arrow-wrap-up" du-smooth-scroll duration="2000"> <span class="arrow-up"></span> </a> </div> <!-- Google Analytics --> <script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      <![endif]-->
+
+      <!-- Site's or application's content here -->
+      <div class="navbar navbar-default navbar-fixed-top" role="navigation" ng-controller="IndexCtrl">
+        <div class="container">
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            <div class="small-logo-container pacifico">
+              <a href="#body" du-smooth-scroll class="small-logo small-logo-big">Vrigz Alejo</a>
+
+            </div>
+          </div>
+          <div class="navbar-collapse collapse">
+
+            <ul class="nav nav-pills navbar-nav navbar-right">
+              <li ng-class="{ active: isActive('/') }" class="works" style="display:none"><a href="#" class="animated-hover1"><i class="ion-code-working"></i> Works</a></li>
+              <li ng-class="{ active: isActive('/about') }" class="about" style="display:none"><a href="#/about" class="animated-hover1"><i class="ion-clipboard"></i> About</a></li>
+              <li class="blog" style="display:none"><a href="//myblog-vrigzalejo.rhcloud.com/" class="animated-hover1"><i class="ion-android-user-menu"></i> Blog</a></li>
+            </ul>
+          </div><!--/.nav-collapse -->
+        </div>
+      </div>
+
+      <div class="container">
+        
+        <div class="support-note text-justify alert alert-danger alert-dismissible" role="alert">
+        <!-- let's check browser support with modernizr -->
+          <!--span class="no-cssanimations">CSS animations are not supported in your browser</span-->
+          <button type="button" class="close" data-dismiss="alert"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+          <i class="ion-heart-broken"></i>
+          <div class="no-js">No Javascript, please turn on your javascript so that the site will function properly.</div>
+          <div class="no-csstransforms">CSS transforms are not supported in your browser.</div>
+          <div class="no-csstransforms3d">CSS 3D transforms are not supported in your browser.</div>
+          <div class="no-csstransitions">CSS transitions are not supported in your browser.</div>
+        </div>
+  
+
+        <div ng-view=""></div>
+
+        <div id="footer" class="jumbotron footer flat-box-shadow">
+          <a href="//www.facebook.com/vrigzonline.ph" class="animated-hover1"><i class="ion-social-facebook"></i></a>
+          <a href="//twitter.com/vrigzalejo" class="animated-hover1"><i class="ion-social-twitter"></i></a>
+          <a href="//github.com/vrigzonline" class="animated-hover1"><i class="ion-social-github"></i></a>
+          <a href="#" class="animated-hover1"><i class="ion-social-linkedin"></i></a>
+        </div>
+      </div>
+
+
+    <div class="scroll-top-wrapper" ng-controller="IndexCtrl">
+      <a href="#body" class="arrow-wrap-up" du-smooth-scroll duration="2000">
+        <span class="arrow-up"></span>
+      </a>
+    </div>
+
+
+    <!-- Google Analytics -->
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
       m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
       })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
       ga('create', 'UA-55643547-1', 'auto');
-      ga('send', 'pageview');</script> <!--[if lt IE 9]>
-    <script src="scripts/oldieshim.ff90b0fb.js"></script>
-    <![endif]--> <script src="scripts/vendor.19f2ecb8.js"></script> <script src="scripts/scripts.c7f82e9f.js"></script>  
+      ga('send', 'pageview');
+
+    </script>
+
+    <!-- build:js(.) scripts/oldieshim.js -->
+    <!--[if lt IE 9]>
+    <script src="bower_components/es5-shim/es5-shim.js"></script>
+    <script src="bower_components/json3/lib/json3.min.js"></script>
+    <![endif]-->
+    <!-- endbuild -->
+
+    <!-- build:js(.) scripts/vendor.js -->
+    <!-- bower:js -->
+    <script src="bower_components/modernizr/modernizr.js"></script>
+    <script src="bower_components/jquery/dist/jquery.js"></script>
+    <script src="bower_components/angular/angular.js"></script>
+    <script src="bower_components/json3/lib/json3.js"></script>
+    <script src="bower_components/bootstrap-sass-official/assets/javascripts/bootstrap/affix.js"></script>
+    <script src="bower_components/bootstrap-sass-official/assets/javascripts/bootstrap/alert.js"></script>
+    <script src="bower_components/bootstrap-sass-official/assets/javascripts/bootstrap/button.js"></script>
+    <script src="bower_components/bootstrap-sass-official/assets/javascripts/bootstrap/carousel.js"></script>
+    <script src="bower_components/bootstrap-sass-official/assets/javascripts/bootstrap/collapse.js"></script>
+    <script src="bower_components/bootstrap-sass-official/assets/javascripts/bootstrap/dropdown.js"></script>
+    <script src="bower_components/bootstrap-sass-official/assets/javascripts/bootstrap/tab.js"></script>
+    <script src="bower_components/bootstrap-sass-official/assets/javascripts/bootstrap/transition.js"></script>
+    <script src="bower_components/bootstrap-sass-official/assets/javascripts/bootstrap/scrollspy.js"></script>
+    <script src="bower_components/bootstrap-sass-official/assets/javascripts/bootstrap/modal.js"></script>
+    <script src="bower_components/bootstrap-sass-official/assets/javascripts/bootstrap/tooltip.js"></script>
+    <script src="bower_components/bootstrap-sass-official/assets/javascripts/bootstrap/popover.js"></script>
+    <script src="bower_components/angular-resource/angular-resource.js"></script>
+    <script src="bower_components/angular-cookies/angular-cookies.js"></script>
+    <script src="bower_components/angular-sanitize/angular-sanitize.js"></script>
+    <script src="bower_components/angular-animate/angular-animate.js"></script>
+    <script src="bower_components/angular-touch/angular-touch.js"></script>
+    <script src="bower_components/angular-route/angular-route.js"></script>
+    <script src="bower_components/jquery.nicescroll/jquery.nicescroll.js"></script>
+    <script src="bower_components/jquery-color/jquery.color.js"></script>
+    <script src="bower_components/bootstrap-progressbar/bootstrap-progressbar.js"></script>
+    <script src="bower_components/stellar/jquery.stellar.js"></script>
+    <script src="bower_components/pace/pace.js"></script>
+    <script src="bower_components/fastclick/lib/fastclick.js"></script>
+    <script src="bower_components/headroom.js/dist/headroom.js"></script>
+    <script src="bower_components/headroom.js/dist/jQuery.headroom.js"></script>
+    <script src="bower_components/headroom.js/dist/angular.headroom.js"></script>
+    <script src="bower_components/angular-scroll/angular-scroll.js"></script>
+    <!-- endbower -->
+    <!-- endbuild -->
+
+    <!-- build:js({.tmp,app}) scripts/scripts.js -->
+    <script src="scripts/app.js"></script>
+    <script src="scripts/animations.js"></script>
+    <script src="scripts/controllers/work.js"></script>
+    <script src="scripts/controllers/about.js"></script>
+    <script src="scripts/controllers/index.js"></script>
+    <script src="scripts/factories/myportfolio.js"></script>
+    <!-- endbuild -->
+
+</body>
+</html>
