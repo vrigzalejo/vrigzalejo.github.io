@@ -140,5 +140,311 @@
 			"tools": "",
 			"date": ""
 		}
+	],
+	"about" : [
+		{
+			"line": "I'm an enthusiast Mobile / Web App developer. A former BSN undergrad who shifted to the real world of IT, my beloved path."
+		},
+		{
+			"line": "I love technologies so much, or even concepts and principles as it's hard for me to describe them. I love any kind of games also. Lol."
+		},
+		{
+			"line": "My fortes are Linux, PHP, HTML5, CSS, Javascript, Java, and BASH scripting. Soon to be a Ruby or Go lover."
+		},
+		{
+			"line": "Thanks for vising my portfolio site. I'm very glad to be a part of your business family, and write quality codes for you."
+		}
+	],
+	"myRate" : [
+		{
+			"rate": 95,
+			"skill": "Linux",
+			"enumerate": [
+				{
+					"name": "Debian-based"
+				},
+				{
+					"name": "Ubuntu-based"
+				},
+				{
+					"name": "RedHat-based"
+				},
+				{
+					"name": "Arch-based"
+				}
+			]
+		},
+		{
+			"rate": 87,
+			"skill": "BSD",
+			"enumerate": [
+				{
+					"name": "FreeBSD"
+				}
+			]
+		},
+		{
+			"rate": 94,
+			"skill": "Back-end Web Development",
+			"enumerate": [
+				{
+					"name": "Native PHP"
+				},
+				{
+					"name": "PHP-FPM"
+				},
+				{
+					"name": "FastCGI"
+				},
+				{
+					"name": "HHVM"
+				},
+				{
+					"name": "cURL"
+				},
+				{
+					"name": "REST"
+				},
+				{
+					"name": "Laravel 3/4"
+				},
+				{
+					"name": "Ruby on Rails"
+				},								
+				{
+					"name": "Node"
+				},
+				{
+					"name": "Express"
+				},
+				{
+					"name": "Socket.IO"
+				},
+				{
+					"name": "Jekyll"
+				},
+				{
+					"name": "Memcached"
+				},
+				{
+					"name": "Redis"
+				}
+			]
+		},
+				{
+			"rate": 92,
+			"skill": "Front-end Web Development",
+			"enumerate": [
+				{
+					"name": "HTML5"
+				},
+				{
+					"name": "CSS2/3"
+				},
+				{
+					"name": "Vanilla Javascript"
+				},
+				{
+					"name": "Angular"
+				},
+				{
+					"name": "jQuery"
+				},
+				{
+					"name": "Modernizr"
+				},
+				{
+					"name": "Sass"
+				},
+				{
+					"name": "Less"
+				}
+			]
+		},
+		{
+			"rate": 88,
+			"skill": "Template Engines",
+			"enumerate": [
+				{
+					"name": "Handlebars"
+				},
+				{
+					"name": "Blade"
+				}
+			]					
+		},
+		{
+			"rate": 90,
+			"skill": "CMS",
+			"enumerate": [
+				{
+					"name": "Wordpress"
+				},
+				{
+					"name": "Ghost"
+				}
+			]
+		},
+		{
+			"rate": 94,
+			"skill": "Stacks",
+			"enumerate": [
+				{
+					"name": "LAMPP" 
+				},
+				{
+					"name": "LLMPP"
+				},
+				{
+					"name": "LEMPP" 
+				},
+				{
+					"name": "MEAN" 
+				},
+				{
+					"name": "XAMPP" 
+				},
+				{
+					"name": "WAMP" 
+				}
+			]
+		},
+			{
+			"rate": 87,
+			"skill": "DBMS",
+			"enumerate": [
+				{
+					"name": "MySQL"
+				},
+				{
+					"name": "MariaDB"
+				},
+				{
+					"name": "SQLite"
+				},
+				{
+					"name": "Microsoft SQL Server"
+				},
+				{
+					"name": "MongoDB"
+				},
+				{
+					"name": "MS Access"
+				}
+			]					
+		},
+
+				{
+			"rate": 82,
+			"skill": "Test Driven Development",
+			"enumerate": [
+				{
+					"name": "Angular Mocks"
+				},
+				{
+					"name": "JSLint"
+				}
+			]					
+		},
+
+		{
+			"rate": 88,
+			"skill": "Mobile App Development",
+			"enumerate": [
+				{
+					"name": "C++"
+				},
+				{
+					"name": "Java"
+				},
+				{
+					"name": "PhoneGap"
+				},
+				{
+					"name": "Cordova"
+				}
+			]
+		},
+		{
+			"rate": 84,
+			"skill": "Desktop App Development",
+			"enumerate": [
+				{
+					"name": "VB6"
+				},
+				{
+					"name": "VB.Net"
+				},
+				{
+					"name": "C++"
+				}
+			]
+		},
+		
+
+		{
+			"rate": 86,
+			"skill": "Report Designers",
+			"enumerate": [
+				{
+					"name": "Crystal Reports"
+				},
+				{
+					"name": "Pentaho"
+				}
+			]
+		}
+	],
+	"tools": [
+		{
+			"caption": "Favorite Tools",
+			"enumerate": [
+				{
+					"name": "Sublime Text 2/3"
+				},
+				{
+					"name": "Git"
+				},
+				{
+					"name": "Bower"
+				},
+				{
+					"name": "Vim"
+				},
+				{
+					"name": "Bootstrap"
+				},
+				{
+					"name": "Foundation"
+				},
+				{
+					"name": "Eclipse"
+				},
+				{
+					"name": "Android Studio"
+				},
+				{
+					"name": "Visual Studio"
+				},
+				{
+					"name": "RVM"
+				},
+				{
+					"name": "Composer"
+				},
+				{
+					"name": "Yeoman"
+				},
+				{
+					"name": "Grunt"
+				},
+				{
+					"name": "Gulp"
+				},
+				{
+					"name": "Compass"
+				}
+			]					
+		}
 	]
 }
