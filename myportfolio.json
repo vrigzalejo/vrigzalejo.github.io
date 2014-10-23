@@ -286,7 +286,7 @@
 			]
 		},
 		{
-			"rate": 94,
+			"rate": 91,
 			"skill": "Stacks",
 			"enumerate": [
 				{
@@ -343,10 +343,24 @@
 				},
 				{
 					"name": "JSLint"
+				},
+				{
+					"name": "Karma"
 				}
 			]					
 		},
-
+						{
+			"rate": 89,
+			"skill": "Design Patterns",
+			"enumerate": [
+				{
+					"name": "MVC"
+				},
+				{
+					"name": "SOLID"
+				}
+			]					
+		},
 		{
 			"rate": 88,
 			"skill": "Mobile App Development",
@@ -377,6 +391,9 @@
 				},
 				{
 					"name": "C++"
+				},
+				{
+					"name": "Java"
 				}
 			]
 		},
