@@ -29,6 +29,7 @@
 		{
 			"title": "Test1 title",
 			"description": "Test1 description",
+			"background": "images/ff.jpg",
 			"images": [
 				{"alt": "Test1 alt", "src": "Test1 src"},
 				{"alt": "Test1 alt", "src": "Test1 src"},
@@ -48,6 +49,7 @@
 		{
 			"title": "Test2",
 			"description": "",
+			"background": "images/ff.jpg",
 			"images": [
 				{"alt": "", "src": ""},
 				{"alt": "", "src": ""},
@@ -67,6 +69,7 @@
 		{
 			"title": "Test3",
 			"description": "",
+			"background": "images/ff.jpg",
 			"images": [
 				{"alt": "", "src": ""},
 				{"alt": "", "src": ""},
@@ -86,6 +89,7 @@
 		{
 			"title": "Test4",
 			"description": "",
+			"background": "images/ff.jpg",
 			"images": [
 				{"alt": "", "src": ""},
 				{"alt": "", "src": ""},
@@ -105,6 +109,7 @@
 		{
 			"title": "Test5",
 			"description": "",
+			"background": "images/ff.jpg",
 			"images": [
 				{"alt": "", "src": ""},
 				{"alt": "", "src": ""},
@@ -124,6 +129,7 @@
 		{
 			"title": "Test6",
 			"description": "",
+			"background": "images/ff.jpg",
 			"images": [
 				{"alt": "", "src": ""},
 				{"alt": "", "src": ""},
@@ -462,6 +468,29 @@
 					"name": "Compass"
 				}
 			]					
+		}
+	],
+	"pAnimations": [
+		{
+			"item": "p1-item",
+			"wrap": "p1-info-wrap",
+			"info": "p1-info",
+			"front": "p1-info-front",
+			"back": "p1-info-back"
+		},
+		{
+			"item": "p2-item",
+			"wrap": "p2-info-wrap",
+			"info": "p2-info",
+			"front": "p2-info-front",
+			"back": "p2-info-back"
+		},
+		{
+			"item": "p3-item",
+			"wrap": "p3-info-wrap",
+			"info": "p3-info",
+			"front": "p3-info-front",
+			"back": "p3-info-back"
 		}
 	]
 }
