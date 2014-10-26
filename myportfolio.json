@@ -477,20 +477,6 @@
 			"info": "p1-info",
 			"front": "p1-info-front",
 			"back": "p1-info-back"
-		},
-		{
-			"item": "p2-item",
-			"wrap": "p2-info-wrap",
-			"info": "p2-info",
-			"front": "p2-info-front",
-			"back": "p2-info-back"
-		},
-		{
-			"item": "p3-item",
-			"wrap": "p3-info-wrap",
-			"info": "p3-info",
-			"front": "p3-info-front",
-			"back": "p3-info-back"
 		}
 	]
 }
