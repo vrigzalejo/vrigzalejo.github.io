@@ -27,47 +27,198 @@
 	],
 	"portfolio": [
 		{
-			"title": "Test1 title",
-			"description": "Test1 description",
-			"background": "images/portfolio7.png",
+			"title": "Quiz Module",
+			"background": "images/portfolio18.png",
 			"images": [
 				{"alt": "Test1 alt", "src": "Test1 src"},
 				{"alt": "Test1 alt", "src": "Test1 src"},
 				{"alt": "Test1 alt", "src": "Test1 src"},
 				{"alt": "Test1 alt", "src": "Test1 src"}
 			],
-			"links": [
-				{"title": "Test1 title", "url": "Test1 url"},
-				{"title": "Test1 title", "url": "Test1 url"},
-				{"title": "Test1 title", "url": "Test1 url"},
-				{"title": "Test1 title", "url": "Test1 url"}
-			],
+			"link": "//seniorhigh-quiz.gopagoda.com/",
+			"source": "",
 			"language": "Test1 language",
 			"tools": "Test1 tools",
 			"date": "Test1 date"
 		},
 		{
-			"title": "Test2",
-			"description": "",
-			"background": "images/ff.jpg",
+			"title": "Chess with Bluetooth",
+			"description": "Android Gradle, Bluetooth Connection",
+			"background": "images/portfolio17.png",
 			"images": [
 				{"alt": "", "src": ""},
 				{"alt": "", "src": ""},
 				{"alt": "", "src": ""},
 				{"alt": "", "src": ""}
 			],
-			"links": [
-				{"title": "", "url": ""},
-				{"title": "", "url": ""},
-				{"title": "", "url": ""},
-				{"title": "", "url": ""}
-			],
+			"link": "",
+			"source": "",
 			"language": "",
 			"tools": "",
 			"date": ""
 		},
 		{
-			"title": "Test3",
+			"title": "Tumblr Theme",
+			"description": "CSS3, Boostrap 3, Javascript, jQuery",
+			"background": "images/default.png",
+			"images": [
+				{"alt": "", "src": ""},
+				{"alt": "", "src": ""},
+				{"alt": "", "src": ""},
+				{"alt": "", "src": ""}
+			],
+			"link": "",
+			"source": "",
+			"language": "",
+			"tools": "",
+			"date": ""
+		},
+		{
+			"title": "DesserDroid",
+			"description": "",
+			"background": "images/portfolio15.png",
+			"images": [
+				{"alt": "", "src": ""},
+				{"alt": "", "src": ""},
+				{"alt": "", "src": ""},
+				{"alt": "", "src": ""}
+			],
+			"link": "",
+			"source": "",
+			"language": "",
+			"tools": "",
+			"date": ""
+		},
+		{
+			"title": "Online Grading System",
+			"description": "",
+			"background": "images/portfolio14.png",
+			"images": [
+				{"alt": "", "src": ""},
+				{"alt": "", "src": ""},
+				{"alt": "", "src": ""},
+				{"alt": "", "src": ""}
+			],
+			"link": "//onlinegrading.gopagoda.com/",
+			"source": "",
+			"language": "",
+			"tools": "",
+			"date": ""
+		},
+		{
+			"title": "BonChanoG Chat",
+			"description": "",
+			"background": "images/portfolio13.png",
+			"images": [
+				{"alt": "", "src": ""},
+				{"alt": "", "src": ""},
+				{"alt": "", "src": ""},
+				{"alt": "", "src": ""}
+			],
+			"link": "",
+			"source": "",
+			"language": "",
+			"tools": "",
+			"date": ""
+		},
+		{
+			"title": "WordGame",
+			"description": "",
+			"background": "images/portfolio12.png",
+			"images": [
+				{"alt": "", "src": ""},
+				{"alt": "", "src": ""},
+				{"alt": "", "src": ""},
+				{"alt": "", "src": ""}
+			],
+			"link": "",
+			"source": "",
+			"language": "Android Java, SQLite",
+			"tools": "Eclipse Kepler, Git",
+			"date": ""
+		},
+				{
+			"title": "Voting System",
+			"description": "",
+			"background": "images/default.png",
+			"images": [
+				{"alt": "", "src": ""},
+				{"alt": "", "src": ""},
+				{"alt": "", "src": ""},
+				{"alt": "", "src": ""}
+			],
+			"link": "",
+			"source": "",
+			"language": "VB6",
+			"tools": "VB6",
+			"date": ""
+		},
+		{
+			"title": "Inventory System",
+			"description": "",
+			"background": "images/default.png",
+			"images": [
+				{"alt": "", "src": ""},
+				{"alt": "", "src": ""},
+				{"alt": "", "src": ""},
+				{"alt": "", "src": ""}
+			],
+			"link": "",
+			"source": "",
+			"language": "VB6",
+			"tools": "VB6",
+			"date": ""
+		},
+		{
+			"title": "Internet Security",
+			"description": "",
+			"background": "images/portfolio9.png",
+			"images": [
+				{"alt": "", "src": ""},
+				{"alt": "", "src": ""},
+				{"alt": "", "src": ""},
+				{"alt": "", "src": ""}
+			],
+			"link": "",
+			"source": "",
+			"language": "HTML5, CSS3, Javascript",
+			"tools": "Node.js, Impress, Impress-server, Bootstrap, VideoJS, Handlebars, Grunt, Yeoman",
+			"date": ""
+		},
+		{
+			"title": "FlowerHub",
+			"description": "",
+			"background": "images/portfolio8.png",
+			"images": [
+				{"alt": "", "src": ""},
+				{"alt": "", "src": ""},
+				{"alt": "", "src": ""},
+				{"alt": "", "src": ""}
+			],
+			"link": "",
+			"source": "",
+			"language": "PHP, HTML5, CSS3, Javascript",
+			"tools": "Node.js, Impress, Impress-server, Grunt, Yeoman",
+			"date": ""
+		},
+				{
+			"title": "PLP Library System",
+			"description": "",
+			"background": "images/portfolio7.png",
+			"images": [
+				{"alt": "", "src": ""},
+				{"alt": "", "src": ""},
+				{"alt": "", "src": ""},
+				{"alt": "", "src": ""}
+			],
+			"link": "//plp-library.gopagoda.com",
+			"source": "",
+			"language": "PHP, HTML5, CSS3, Javascript",
+			"tools": "Node.js, Impress, Impress-server, Grunt, Yeoman",
+			"date": ""
+		},
+						{
+			"title": "ProDev Snippets",
 			"description": "",
 			"background": "images/portfolio6.png",
 			"images": [
@@ -76,74 +227,90 @@
 				{"alt": "", "src": ""},
 				{"alt": "", "src": ""}
 			],
-			"links": [
-				{"title": "", "url": ""},
-				{"title": "", "url": ""},
-				{"title": "", "url": ""},
-				{"title": "", "url": ""}
-			],
-			"language": "",
-			"tools": "",
+			"link": "//prodev-snippets.gopagoda.com",
+			"source": "",
+			"language": "PHP, HTML5, CSS3, Javascript",
+			"tools": "Node.js, Impress, Impress-server, Grunt, Yeoman",
 			"date": ""
 		},
-		{
-			"title": "Test4",
+								{
+			"title": "Kantang Pambata",
 			"description": "",
-			"background": "images/ff.jpg",
+			"background": "images/portfolio5.png",
 			"images": [
 				{"alt": "", "src": ""},
 				{"alt": "", "src": ""},
 				{"alt": "", "src": ""},
 				{"alt": "", "src": ""}
 			],
-			"links": [
-				{"title": "", "url": ""},
-				{"title": "", "url": ""},
-				{"title": "", "url": ""},
-				{"title": "", "url": ""}
-			],
-			"language": "",
-			"tools": "",
+			"link": "",
+			"source": "//github.com/vrigzonline/Kantang-Pambata",
+			"language": "PHP, HTML5, CSS3, Javascript",
+			"tools": "Node.js, Impress, Impress-server, Grunt, Yeoman",
 			"date": ""
 		},
-		{
-			"title": "Test5",
+										{
+			"title": "PDDWM",
 			"description": "",
-			"background": "images/ff.jpg",
+			"background": "images/portfolio4.png",
 			"images": [
 				{"alt": "", "src": ""},
 				{"alt": "", "src": ""},
 				{"alt": "", "src": ""},
 				{"alt": "", "src": ""}
 			],
-			"links": [
-				{"title": "", "url": ""},
-				{"title": "", "url": ""},
-				{"title": "", "url": ""},
-				{"title": "", "url": ""}
-			],
-			"language": "",
-			"tools": "",
+			"link": "//www.youtube.com/watch?v=trV_zWuZBX4",
+			"source": "",
+			"language": "PHP, HTML5, CSS3, Javascript",
+			"tools": "Node.js, Impress, Impress-server, Grunt, Yeoman",
 			"date": ""
 		},
-		{
-			"title": "Test6",
+												{
+			"title": "Document Management System",
 			"description": "",
-			"background": "images/ff.jpg",
+			"background": "images/default.png",
 			"images": [
 				{"alt": "", "src": ""},
 				{"alt": "", "src": ""},
 				{"alt": "", "src": ""},
 				{"alt": "", "src": ""}
 			],
-			"links": [
-				{"title": "", "url": ""},
-				{"title": "", "url": ""},
-				{"title": "", "url": ""},
-				{"title": "", "url": ""}
+			"link": "",
+			"source": "",
+			"language": "PHP, HTML5, CSS3, Javascript",
+			"tools": "Node.js, Impress, Impress-server, Grunt, Yeoman",
+			"date": ""
+		},
+		{
+			"title": "Procurement System",
+			"description": "",
+			"background": "images/portfolio2.png",
+			"images": [
+				{"alt": "", "src": ""},
+				{"alt": "", "src": ""},
+				{"alt": "", "src": ""},
+				{"alt": "", "src": ""}
 			],
-			"language": "",
-			"tools": "",
+			"link": "",
+			"source": "//www.dropbox.com/s/4cw4vvo807j14tw/myprogram_CHR_Sep2012.rar?dl=0",
+			"language": "PHP, HTML5, CSS3, Javascript",
+			"tools": "Node.js, Impress, Impress-server, Grunt, Yeoman",
+			"date": ""
+		},
+		{
+			"title": "Billing and Inventory System",
+			"description": "",
+			"background": "images/default.png",
+			"images": [
+				{"alt": "", "src": ""},
+				{"alt": "", "src": ""},
+				{"alt": "", "src": ""},
+				{"alt": "", "src": ""}
+			],
+			"link": "",
+			"source": "//www.dropbox.com/s/1szlmg27ej8vten/Billing%20and%20Inventory%20System.zip?dl=0",
+			"language": "PHP, HTML5, CSS3, Javascript",
+			"tools": "Node.js, Impress, Impress-server, Grunt, Yeoman",
 			"date": ""
 		}
 	],
@@ -357,6 +524,21 @@
 					"name": "Karma"
 				}
 			]					
+		},
+		{
+			"rate": 88,
+			"skill": "PaaS",
+			"enumerate": [
+				{
+					"name": "Pagodabox"
+				},
+				{
+					"name": "Openshift"
+				},
+				{
+					"name": "Heroku"
+				}
+			]
 		},
 						{
 			"rate": 89,
