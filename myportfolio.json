@@ -29,7 +29,7 @@
 		{
 			"title": "Test1 title",
 			"description": "Test1 description",
-			"background": "images/ff.jpg",
+			"background": "images/portfolio7.png",
 			"images": [
 				{"alt": "Test1 alt", "src": "Test1 src"},
 				{"alt": "Test1 alt", "src": "Test1 src"},
@@ -69,7 +69,7 @@
 		{
 			"title": "Test3",
 			"description": "",
-			"background": "images/ff.jpg",
+			"background": "images/portfolio6.png",
 			"images": [
 				{"alt": "", "src": ""},
 				{"alt": "", "src": ""},
@@ -260,6 +260,9 @@
 					"name": "Modernizr"
 				},
 				{
+					"name": "RequireJS"
+				},
+				{
 					"name": "Sass"
 				},
 				{
@@ -402,9 +405,7 @@
 					"name": "Java"
 				}
 			]
-		},
-		
-
+		},		
 		{
 			"rate": 86,
 			"skill": "Report Designers",
