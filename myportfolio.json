@@ -35,11 +35,11 @@
 				{"alt": "Test1 alt", "src": "Test1 src"},
 				{"alt": "Test1 alt", "src": "Test1 src"}
 			],
-			"link": "//seniorhigh-quiz.gopagoda.com/",
+			"link": "//goo.gl/rV3ik2",
 			"source": "",
-			"language": "Test1 language",
-			"tools": "Test1 tools",
-			"date": "Test1 date"
+			"language": "",
+			"tools": "",
+			"date": "July 2014"
 		},
 		{
 			"title": "Chess with Bluetooth",
@@ -51,16 +51,16 @@
 				{"alt": "", "src": ""},
 				{"alt": "", "src": ""}
 			],
-			"link": "",
+			"link": "//goo.gl/uNi5S9",
 			"source": "",
 			"language": "",
 			"tools": "",
-			"date": ""
+			"date": "May 2014"
 		},
 		{
 			"title": "Tumblr Theme",
 			"description": "CSS3, Boostrap 3, Javascript, jQuery",
-			"background": "images/default.png",
+			"background": "images/portfolio16.png",
 			"images": [
 				{"alt": "", "src": ""},
 				{"alt": "", "src": ""},
@@ -68,10 +68,10 @@
 				{"alt": "", "src": ""}
 			],
 			"link": "",
-			"source": "",
+			"source": "//goo.gl/OOPXWE",
 			"language": "",
 			"tools": "",
-			"date": ""
+			"date": "April 2014"
 		},
 		{
 			"title": "DesserDroid",
@@ -84,10 +84,10 @@
 				{"alt": "", "src": ""}
 			],
 			"link": "",
-			"source": "",
+			"source": "//github.com/vrigzonline/DesserDroid",
 			"language": "",
 			"tools": "",
-			"date": ""
+			"date": "February 2014"
 		},
 		{
 			"title": "Online Grading System",
@@ -99,11 +99,11 @@
 				{"alt": "", "src": ""},
 				{"alt": "", "src": ""}
 			],
-			"link": "//onlinegrading.gopagoda.com/",
+			"link": "//goo.gl/7ZHkOo",
 			"source": "",
 			"language": "",
 			"tools": "",
-			"date": ""
+			"date": "February 2014"
 		},
 		{
 			"title": "BonChanoG Chat",
@@ -115,11 +115,11 @@
 				{"alt": "", "src": ""},
 				{"alt": "", "src": ""}
 			],
-			"link": "",
+			"link": "//goo.gl/7tobTE",
 			"source": "",
 			"language": "",
 			"tools": "",
-			"date": ""
+			"date": "December 2013"
 		},
 		{
 			"title": "WordGame",
@@ -131,11 +131,11 @@
 				{"alt": "", "src": ""},
 				{"alt": "", "src": ""}
 			],
-			"link": "",
+			"link": "//goo.gl/4J53sD",
 			"source": "",
 			"language": "Android Java, SQLite",
 			"tools": "Eclipse Kepler, Git",
-			"date": ""
+			"date": "August 2013"
 		},
 				{
 			"title": "Voting System",
@@ -151,7 +151,7 @@
 			"source": "",
 			"language": "VB6",
 			"tools": "VB6",
-			"date": ""
+			"date": "January 2012"
 		},
 		{
 			"title": "Inventory System",
@@ -167,7 +167,7 @@
 			"source": "",
 			"language": "VB6",
 			"tools": "VB6",
-			"date": ""
+			"date": "December 2011"
 		},
 		{
 			"title": "Internet Security",
@@ -180,10 +180,10 @@
 				{"alt": "", "src": ""}
 			],
 			"link": "",
-			"source": "",
+			"source": "//github.com/vrigzonline/InternetSecurity",
 			"language": "HTML5, CSS3, Javascript",
 			"tools": "Node.js, Impress, Impress-server, Bootstrap, VideoJS, Handlebars, Grunt, Yeoman",
-			"date": ""
+			"date": "September 2014"
 		},
 		{
 			"title": "FlowerHub",
@@ -199,7 +199,7 @@
 			"source": "",
 			"language": "PHP, HTML5, CSS3, Javascript",
 			"tools": "Node.js, Impress, Impress-server, Grunt, Yeoman",
-			"date": ""
+			"date": "March 2014"
 		},
 				{
 			"title": "PLP Library System",
@@ -211,11 +211,11 @@
 				{"alt": "", "src": ""},
 				{"alt": "", "src": ""}
 			],
-			"link": "//plp-library.gopagoda.com",
+			"link": "//goo.gl/8dY6pC",
 			"source": "",
 			"language": "PHP, HTML5, CSS3, Javascript",
 			"tools": "Node.js, Impress, Impress-server, Grunt, Yeoman",
-			"date": ""
+			"date": "December 2013"
 		},
 						{
 			"title": "ProDev Snippets",
@@ -227,11 +227,11 @@
 				{"alt": "", "src": ""},
 				{"alt": "", "src": ""}
 			],
-			"link": "//prodev-snippets.gopagoda.com",
+			"link": "//goo.gl/8dY6pC",
 			"source": "",
 			"language": "PHP, HTML5, CSS3, Javascript",
 			"tools": "Node.js, Impress, Impress-server, Grunt, Yeoman",
-			"date": ""
+			"date": "November 2013"
 		},
 								{
 			"title": "Kantang Pambata",
@@ -247,7 +247,7 @@
 			"source": "//github.com/vrigzonline/Kantang-Pambata",
 			"language": "PHP, HTML5, CSS3, Javascript",
 			"tools": "Node.js, Impress, Impress-server, Grunt, Yeoman",
-			"date": ""
+			"date": "October 2013"
 		},
 										{
 			"title": "PDDWM",
@@ -259,11 +259,11 @@
 				{"alt": "", "src": ""},
 				{"alt": "", "src": ""}
 			],
-			"link": "//www.youtube.com/watch?v=trV_zWuZBX4",
+			"link": "//goo.gl/jo7oL8",
 			"source": "",
 			"language": "PHP, HTML5, CSS3, Javascript",
 			"tools": "Node.js, Impress, Impress-server, Grunt, Yeoman",
-			"date": ""
+			"date": "August 2013"
 		},
 												{
 			"title": "Document Management System",
@@ -276,10 +276,10 @@
 				{"alt": "", "src": ""}
 			],
 			"link": "",
-			"source": "",
+			"source": "//goo.gl/h7KsXO",
 			"language": "PHP, HTML5, CSS3, Javascript",
 			"tools": "Node.js, Impress, Impress-server, Grunt, Yeoman",
-			"date": ""
+			"date": "October 2012"
 		},
 		{
 			"title": "Procurement System",
@@ -292,10 +292,10 @@
 				{"alt": "", "src": ""}
 			],
 			"link": "",
-			"source": "//www.dropbox.com/s/4cw4vvo807j14tw/myprogram_CHR_Sep2012.rar?dl=0",
+			"source": "//goo.gl/vq5Kvc",
 			"language": "PHP, HTML5, CSS3, Javascript",
 			"tools": "Node.js, Impress, Impress-server, Grunt, Yeoman",
-			"date": ""
+			"date": "April 2012"
 		},
 		{
 			"title": "Billing and Inventory System",
@@ -308,10 +308,10 @@
 				{"alt": "", "src": ""}
 			],
 			"link": "",
-			"source": "//www.dropbox.com/s/1szlmg27ej8vten/Billing%20and%20Inventory%20System.zip?dl=0",
+			"source": "//goo.gl/deuWmx",
 			"language": "PHP, HTML5, CSS3, Javascript",
 			"tools": "Node.js, Impress, Impress-server, Grunt, Yeoman",
-			"date": ""
+			"date": "March 2012"
 		}
 	],
 	"about" : [
