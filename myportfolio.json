@@ -37,8 +37,8 @@
 			],
 			"link": "//goo.gl/rV3ik2",
 			"source": "",
-			"language": "",
-			"tools": "",
+			"used": "REST, API-Centric, LLMPP/LAMPP, Redis, Laravel, Sentry, Gravatar, jQuery, Zurb, Bootstrap, FontAwesome, Modernizr, AngularJS, PSR-0",
+			
 			"date": "July 2014"
 		},
 		{
@@ -53,8 +53,8 @@
 			],
 			"link": "//goo.gl/uNi5S9",
 			"source": "",
-			"language": "",
-			"tools": "",
+			"used": "Android Gradle, Bluetooth Connection",
+			
 			"date": "May 2014"
 		},
 		{
@@ -69,8 +69,8 @@
 			],
 			"link": "",
 			"source": "//goo.gl/OOPXWE",
-			"language": "",
-			"tools": "",
+			"used": "HTML5, CSS3, Javascript",
+			
 			"date": "April 2014"
 		},
 		{
@@ -85,8 +85,8 @@
 			],
 			"link": "",
 			"source": "//github.com/vrigzonline/DesserDroid",
-			"language": "",
-			"tools": "",
+			"used": "Android Ant, Sherlock Action Bar, MenuDrawer, SQLite",
+			
 			"date": "February 2014"
 		},
 		{
@@ -101,8 +101,8 @@
 			],
 			"link": "//goo.gl/7ZHkOo",
 			"source": "",
-			"language": "",
-			"tools": "",
+			"used": "REST, LLMPP/LAMPP, Redis, TwilioAPI, CSS3, Javascript, jQuery, Bootstrap, Laravel",
+			
 			"date": "February 2014"
 		},
 		{
@@ -117,8 +117,8 @@
 			],
 			"link": "//goo.gl/7tobTE",
 			"source": "",
-			"language": "",
-			"tools": "",
+			"used": "Android Ant, PHP OOP, MySQL, LLMPP, Sherlock Action Bar, WLAN Connection",
+			
 			"date": "December 2013"
 		},
 		{
@@ -133,8 +133,7 @@
 			],
 			"link": "//goo.gl/4J53sD",
 			"source": "",
-			"language": "Android Java, SQLite",
-			"tools": "Eclipse Kepler, Git",
+			"used": "Android Ant, Proximity Sensor, SQLite",
 			"date": "August 2013"
 		},
 				{
@@ -149,8 +148,7 @@
 			],
 			"link": "",
 			"source": "",
-			"language": "VB6",
-			"tools": "VB6",
+			"used": "VB6",
 			"date": "January 2012"
 		},
 		{
@@ -165,8 +163,7 @@
 			],
 			"link": "",
 			"source": "",
-			"language": "VB6",
-			"tools": "VB6",
+			"used": "VB6",
 			"date": "December 2011"
 		},
 		{
@@ -181,8 +178,7 @@
 			],
 			"link": "",
 			"source": "//github.com/vrigzonline/InternetSecurity",
-			"language": "HTML5, CSS3, Javascript",
-			"tools": "Node.js, Impress, Impress-server, Bootstrap, VideoJS, Handlebars, Grunt, Yeoman",
+			"used": "Node.js, Express, Socket.IO, Impress, Impress-server, Grunt, Handlebars, Yeoman",
 			"date": "September 2014"
 		},
 		{
@@ -197,8 +193,7 @@
 			],
 			"link": "",
 			"source": "",
-			"language": "PHP, HTML5, CSS3, Javascript",
-			"tools": "Node.js, Impress, Impress-server, Grunt, Yeoman",
+			"used": "Wordpress",
 			"date": "March 2014"
 		},
 				{
@@ -213,8 +208,7 @@
 			],
 			"link": "//goo.gl/8dY6pC",
 			"source": "",
-			"language": "PHP, HTML5, CSS3, Javascript",
-			"tools": "Node.js, Impress, Impress-server, Grunt, Yeoman",
+			"used": "REST, LLMPP/LAMPP, Redis, CSS3, Javascript, jQuery, Bootstrap, Laravel, Angular, Modernizr",
 			"date": "December 2013"
 		},
 						{
@@ -229,8 +223,7 @@
 			],
 			"link": "//goo.gl/8dY6pC",
 			"source": "",
-			"language": "PHP, HTML5, CSS3, Javascript",
-			"tools": "Node.js, Impress, Impress-server, Grunt, Yeoman",
+			"used": "CSS3, Bootstrap, Javascript, jQuery, Laravel, Markdown library, Git, FacebookAPI",
 			"date": "November 2013"
 		},
 								{
@@ -245,8 +238,7 @@
 			],
 			"link": "",
 			"source": "//github.com/vrigzonline/Kantang-Pambata",
-			"language": "PHP, HTML5, CSS3, Javascript",
-			"tools": "Node.js, Impress, Impress-server, Grunt, Yeoman",
+			"used": "Android Ant, Holo library",
 			"date": "October 2013"
 		},
 										{
@@ -261,8 +253,7 @@
 			],
 			"link": "//goo.gl/jo7oL8",
 			"source": "",
-			"language": "PHP, HTML5, CSS3, Javascript",
-			"tools": "Node.js, Impress, Impress-server, Grunt, Yeoman",
+			"used": "Sony Vegas PRO 10",
 			"date": "August 2013"
 		},
 												{
@@ -277,8 +268,7 @@
 			],
 			"link": "",
 			"source": "//goo.gl/h7KsXO",
-			"language": "PHP, HTML5, CSS3, Javascript",
-			"tools": "Node.js, Impress, Impress-server, Grunt, Yeoman",
+			"used": "VB.Net",
 			"date": "October 2012"
 		},
 		{
@@ -293,8 +283,7 @@
 			],
 			"link": "",
 			"source": "//goo.gl/vq5Kvc",
-			"language": "PHP, HTML5, CSS3, Javascript",
-			"tools": "Node.js, Impress, Impress-server, Grunt, Yeoman",
+			"used": "PHP, HTML5, CSS3, jQuery, Javascript",
 			"date": "April 2012"
 		},
 		{
@@ -309,8 +298,7 @@
 			],
 			"link": "",
 			"source": "//goo.gl/deuWmx",
-			"language": "PHP, HTML5, CSS3, Javascript",
-			"tools": "Node.js, Impress, Impress-server, Grunt, Yeoman",
+			"used": "VB6",
 			"date": "March 2012"
 		}
 	],
