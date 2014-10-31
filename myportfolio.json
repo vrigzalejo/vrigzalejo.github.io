@@ -131,7 +131,7 @@
 				{"alt": "", "src": ""},
 				{"alt": "", "src": ""}
 			],
-			"link": "//goo.gl/wtP5GB",
+			"link": "//goo.gl/y23O3O",
 			"source": "",
 			"used": "Android Ant, Proximity Sensor, SQLite",
 			"date": "August 2013"
@@ -648,6 +648,32 @@
 			"info": "p1-info",
 			"front": "p1-info-front",
 			"back": "p1-info-back"
+		}
+	],
+	"ads" : [
+		{
+			"adsUrl": "http://goo.gl/YKT9kU"
+		},
+		{
+			"adsUrl": "http://goo.gl/yXr8la"
+		},
+		{
+			"adsUrl": "http://goo.gl/4sd4za"
+		},
+		{
+			"adsUrl": "http://goo.gl/unqeSu"
+		},
+		{
+			"adsUrl": "http://goo.gl/We6QE1"
+		},
+		{
+			"adsUrl": "http://goo.gl/YwPKGJ"
+		},
+		{
+			"adsUrl": "http://goo.gl/dBpqI7"
+		},
+		{
+			"adsUrl": "http://goo.gl/MCivFP"
 		}
 	]
 }
