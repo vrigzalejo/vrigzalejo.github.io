@@ -30,10 +30,10 @@
 			"title": "Quiz Module",
 			"background": "images/portfolio18.png",
 			"images": [
-				{"alt": "Test1 alt", "src": "Test1 src"},
-				{"alt": "Test1 alt", "src": "Test1 src"},
-				{"alt": "Test1 alt", "src": "Test1 src"},
-				{"alt": "Test1 alt", "src": "Test1 src"}
+				{"group": "quiz", "src": "images/previews/quizmodule1.png"},
+				{"group": "quiz", "src": "images/previews/quizmodule2.png"},
+				{"group": "quiz", "src": "images/previews/quizmodule3.png"},
+				{"group": "quiz", "src": "images/previews/quizmodule4.png"}
 			],
 			"link": "//goo.gl/rV3ik2",
 			"source": "",
@@ -46,10 +46,8 @@
 			"description": "Android Gradle, Bluetooth Connection",
 			"background": "images/portfolio17.png",
 			"images": [
-				{"alt": "", "src": ""},
-				{"alt": "", "src": ""},
-				{"alt": "", "src": ""},
-				{"alt": "", "src": ""}
+				{"group": "chess", "src": "images/previews/chess1.png"},
+				{"group": "chess", "src": "images/previews/chess2.png"}
 			],
 			"link": "//goo.gl/mmgGYK",
 			"source": "",
