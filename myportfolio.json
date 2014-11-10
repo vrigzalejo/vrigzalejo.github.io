@@ -26,9 +26,24 @@
 		}
 	],
 	"portfolio": [
+				{
+			"title": "Responsive Email",
+			"background": "images/portfolio21.png",
+			"images": [
+				{"alt": "", "src": ""},
+				{"alt": "", "src": ""},
+				{"alt": "", "src": ""},
+				{"alt": "", "src": ""}
+			],
+			"link": "//goo.gl/rV3ik2",
+			"source": "",
+			"used": "HTML 4.01, CSS, Google Font API",
+			
+			"date": "November 2014"
+		},
 		{
 			"title": "Quiz Module",
-			"background": "images/portfolio18.png",
+			"background": "images/portfolio20.png",
 			"images": [
 				{"group": "quiz", "src": "images/previews/quizmodule1.png"},
 				{"group": "quiz", "src": "images/previews/quizmodule2.png"},
@@ -44,7 +59,7 @@
 		{
 			"title": "Chess with Bluetooth",
 			"description": "Android Gradle, Bluetooth Connection",
-			"background": "images/portfolio17.png",
+			"background": "images/portfolio19.png",
 			"images": [
 				{"group": "chess", "src": "images/previews/chess1.png"},
 				{"group": "chess", "src": "images/previews/chess2.png"}
@@ -58,7 +73,7 @@
 		{
 			"title": "Tumblr Theme",
 			"description": "CSS3, Boostrap 3, Javascript, jQuery",
-			"background": "images/portfolio16.png",
+			"background": "images/portfolio18.png",
 			"images": [
 				{"alt": "", "src": ""},
 				{"alt": "", "src": ""},
@@ -74,7 +89,7 @@
 		{
 			"title": "DesserDroid",
 			"description": "",
-			"background": "images/portfolio15.png",
+			"background": "images/portfolio17.png",
 			"images": [
 				{"alt": "", "src": ""},
 				{"alt": "", "src": ""},
@@ -90,7 +105,7 @@
 		{
 			"title": "Online Grading System",
 			"description": "",
-			"background": "images/portfolio14.png",
+			"background": "images/portfolio16.png",
 			"images": [
 				{"alt": "", "src": ""},
 				{"alt": "", "src": ""},
@@ -99,14 +114,14 @@
 			],
 			"link": "//goo.gl/7ZHkOo",
 			"source": "",
-			"used": "REST, LLMPP/LAMPP, Redis, TwilioAPI, CSS3, Javascript, jQuery, Bootstrap, Laravel",
+			"used": "REST, LLMPP/LAMPP, Redis, Twilio API, CSS3, Javascript, jQuery, Bootstrap, Laravel",
 			
 			"date": "February 2014"
 		},
 		{
 			"title": "BonChanoG Chat",
 			"description": "",
-			"background": "images/portfolio13.png",
+			"background": "images/portfolio15.png",
 			"images": [
 				{"alt": "", "src": ""},
 				{"alt": "", "src": ""},
@@ -122,7 +137,7 @@
 		{
 			"title": "WordGame",
 			"description": "",
-			"background": "images/portfolio12.png",
+			"background": "images/portfolio14.png",
 			"images": [
 				{"alt": "", "src": ""},
 				{"alt": "", "src": ""},
@@ -167,7 +182,7 @@
 		{
 			"title": "Internet Security",
 			"description": "",
-			"background": "images/portfolio9.png",
+			"background": "images/portfolio11.png",
 			"images": [
 				{"alt": "", "src": ""},
 				{"alt": "", "src": ""},
@@ -180,9 +195,24 @@
 			"date": "September 2014"
 		},
 		{
+			"title": "Happy Mother's Day",
+			"description": "",
+			"background": "images/portfolio10.png",
+			"images": [
+				{"alt": "", "src": ""},
+				{"alt": "", "src": ""},
+				{"alt": "", "src": ""},
+				{"alt": "", "src": ""}
+			],
+			"link": "//goo.gl/p2ACzV",
+			"source": "",
+			"used": "Wordpress, Disqus, Modernizr, Google Font API",
+			"date": "May 2014"
+		},
+		{
 			"title": "FlowerHub",
 			"description": "",
-			"background": "images/portfolio8.png",
+			"background": "images/portfolio9.png",
 			"images": [
 				{"alt": "", "src": ""},
 				{"alt": "", "src": ""},
@@ -197,7 +227,7 @@
 				{
 			"title": "PLP Library System",
 			"description": "",
-			"background": "images/portfolio7.png",
+			"background": "images/portfolio8.png",
 			"images": [
 				{"alt": "", "src": ""},
 				{"alt": "", "src": ""},
@@ -212,7 +242,7 @@
 						{
 			"title": "ProDev Snippets",
 			"description": "",
-			"background": "images/portfolio6.png",
+			"background": "images/portfolio7.png",
 			"images": [
 				{"alt": "", "src": ""},
 				{"alt": "", "src": ""},
@@ -221,13 +251,13 @@
 			],
 			"link": "//goo.gl/8dY6pC",
 			"source": "",
-			"used": "CSS3, Bootstrap, Javascript, jQuery, Laravel, Markdown library, Git, FacebookAPI",
+			"used": "CSS3, Bootstrap, Javascript, jQuery, Laravel, Markdown library, Git, Facebook API",
 			"date": "November 2013"
 		},
 								{
 			"title": "Kantang Pambata",
 			"description": "",
-			"background": "images/portfolio5.png",
+			"background": "images/portfolio6.png",
 			"images": [
 				{"alt": "", "src": ""},
 				{"alt": "", "src": ""},
@@ -239,10 +269,10 @@
 			"used": "Android Ant, Holo library",
 			"date": "October 2013"
 		},
-										{
+		{
 			"title": "PDDWM",
 			"description": "",
-			"background": "images/portfolio4.png",
+			"background": "images/portfolio5.png",
 			"images": [
 				{"alt": "", "src": ""},
 				{"alt": "", "src": ""},
@@ -254,7 +284,22 @@
 			"used": "Sony Vegas PRO 10",
 			"date": "August 2013"
 		},
-												{
+		{
+			"title": "Vrigz Online",
+			"description": "",
+			"background": "images/portfolio4.png",
+			"images": [
+				{"alt": "", "src": ""},
+				{"alt": "", "src": ""},
+				{"alt": "", "src": ""},
+				{"alt": "", "src": ""}
+			],
+			"link": "//goo.gl/TjpH5O",
+			"source": "",
+			"used": "Wordpress, Facebook API",
+			"date": "May 2013"
+		},
+		{
 			"title": "Document Management System",
 			"description": "",
 			"background": "images/default.png",
