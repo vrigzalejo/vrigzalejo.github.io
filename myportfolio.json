@@ -35,7 +35,7 @@
 				{"alt": "", "src": ""},
 				{"alt": "", "src": ""}
 			],
-			"link": "//goo.gl/rV3ik2",
+			"link": "",
 			"source": "",
 			"used": "HTML 4.01, CSS, Google Font API",
 			
@@ -66,7 +66,7 @@
 			],
 			"link": "//goo.gl/mmgGYK",
 			"source": "",
-			"used": "Android Gradle, Bluetooth Connection",
+			"used": "Android Ant, Bluetooth Connection",
 			
 			"date": "May 2014"
 		},
