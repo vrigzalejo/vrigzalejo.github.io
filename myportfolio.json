@@ -30,15 +30,53 @@
 			"title": "Responsive Email",
 			"background": "images/portfolio21.png",
 			"images": [
-				{"alt": "", "src": ""},
-				{"alt": "", "src": ""},
-				{"alt": "", "src": ""},
-				{"alt": "", "src": ""}
+				{"group": "responsive-email", "title": "Android 4+ - Full", "src": "images/previews/responsive_email/ANDROID4_full_on.png"},
+				{"group": "responsive-email", "title": "Android 2.2 - Full",  "src": "images/previews/responsive_email/ANDROID22_full_on.png"},
+				{"group": "responsive-email", "title": "Android Gmail App - No Image",  "src": "images/previews/responsive_email/ANDROIDGMAILAPP_full_off.png"},
+				{"group": "responsive-email", "title": "Android Gmail App - Full",  "src": "images/previews/responsive_email/ANDROIDGMAILAPP_full_on.png"},
+				{"group": "responsive-email", "title": "AOL Online - No Image", "src": "images/previews/responsive_email/AOLONLINE_full_off.png"},
+				{"group": "responsive-email", "title": "AOL Online - Full", "src": "images/previews/responsive_email/AOLONLINE_full_on.png"},
+				{"group": "responsive-email", "title": "Apple Mail 6 - Full",  "src": "images/previews/responsive_email/APPMAIL6_full_on.png"},
+				{"group": "responsive-email", "title": "Blackberry HTML - Full",  "src": "images/previews/responsive_email/BLACKBERRYHTML_full_on.png"},
+				{"group": "responsive-email", "title": "Blackberry HTML - Window",  "src": "images/previews/responsive_email/BLACKBERRYHTML_window_on.png"},
+				{"group": "responsive-email", "title": "Gmail - Chrome Full",  "src": "images/previews/responsive_email/CHROMEGMAILNEW_full_on.png"},
+				{"group": "responsive-email", "title": "Gmail - Chrome Window",  "src": "images/previews/responsive_email/CHROMEGMAILNEW_window_on.png"},	
+				{"group": "responsive-email", "title": "Yahoo - Chrome Full",  "src": "images/previews/responsive_email/CHROMEYAHOO_full_on.png"},
+				{"group": "responsive-email", "title": "For color blinded - Full",  "src": "images/previews/responsive_email/COLORBLIND_full_on.png"},	
+				{"group": "responsive-email", "title": "AOL Online - FF No Image",  "src": "images/previews/responsive_email/FFAOLONLINE_full_off.png"},
+				{"group": "responsive-email", "title": "AOL Online - FF Full",  "src": "images/previews/responsive_email/FFAOLONLINE_full_on.png"},	
+				{"group": "responsive-email", "title": "Gmail - FF Full",  "src": "images/previews/responsive_email/FFGMAILNEW_full_on.png"},
+				{"group": "responsive-email", "title": "Outlook - FF Full",  "src": "images/previews/responsive_email/FFOUTLOOKCOM_full_on.png"},	
+				{"group": "responsive-email", "title": "Yahoo - FF No Image",  "src": "images/previews/responsive_email/FFYAHOO_full_off.png"},
+				{"group": "responsive-email", "title": "Yahoo - FF Full",  "src": "images/previews/responsive_email/FFYAHOO_full_on.png"},	
+				{"group": "responsive-email", "title": "Gmail - Full",  "src": "images/previews/responsive_email/GMAILNEW_full_on.png"},
+				{"group": "responsive-email", "title": "IPad - Full",  "src": "images/previews/responsive_email/IPAD_full_on.png"},	
+				{"group": "responsive-email", "title": "IPad Mini - Full",  "src": "images/previews/responsive_email/IPADMINI_full_on.png"},
+				{"group": "responsive-email", "title": "Iphone 4 - Full",  "src": "images/previews/responsive_email/IPHONE4_full_on.png"},	
+				{"group": "responsive-email", "title": "Iphone 5 - Full",  "src": "images/previews/responsive_email/IPHONE5_full_on.png"},
+				{"group": "responsive-email", "title": "Iphone 5S - Full",  "src": "images/previews/responsive_email/IPHONE5S_full_on.png"},	
+				{"group": "responsive-email", "title": "Iphone 6 - Full",  "src": "images/previews/responsive_email/IPHONE6_full_on.png"},
+				{"group": "responsive-email", "title": "Iphone 6 Plus - Full",  "src": "images/previews/responsive_email/IPHONE6PLUS_full_on.png"},	
+				{"group": "responsive-email", "title": "Lotus Notes 6 - Full",  "src": "images/previews/responsive_email/NOTES6_full_on.png"},
+				{"group": "responsive-email", "title": "Lotus Notes 7 - Full",  "src": "images/previews/responsive_email/NOTES7_full_on.png"},
+				{"group": "responsive-email", "title": "Outlook 2003 - No Image",  "src": "images/previews/responsive_email/OL2003_full_off.png"},	
+				{"group": "responsive-email", "title": "Outlook 2007 - No Image",  "src": "images/previews/responsive_email/OL2007_full_off.png"},
+				{"group": "responsive-email", "title": "Outlook 2007 - Full",  "src": "images/previews/responsive_email/OL2007_full_on.png"},
+				{"group": "responsive-email", "title": "Outlook 2010 - No Image",  "src": "images/previews/responsive_email/OL2010_full_off.png"},	
+				{"group": "responsive-email", "title": "Outlook 2010 - Full",  "src": "images/previews/responsive_email/OL2010_full_on.png"},
+				{"group": "responsive-email", "title": "Outlook 2011 - Full",  "src": "images/previews/responsive_email/OL2011_full_on.png"},	
+				{"group": "responsive-email", "title": "Outlook 2013 - No Image",  "src": "images/previews/responsive_email/OL2013_full_off.png"},
+				{"group": "responsive-email", "title": "Outlook 2013 - Full",  "src": "images/previews/responsive_email/OL2013_full_on.png"},
+				{"group": "responsive-email", "title": "Outlook.com - Full",  "src": "images/previews/responsive_email/OUTLOOKCOM_full_on.png"},	
+				{"group": "responsive-email", "title": "ThunderBird - No Image",  "src": "images/previews/responsive_email/THUNDERBIRDLATEST_full_off.png"},
+				{"group": "responsive-email", "title": "Windows Phone 8 - Full",  "src": "images/previews/responsive_email/WINDOWSPHONE8_full_on.png"},
+				{"group": "responsive-email", "title": "Windows Phone 8 - Window",  "src": "images/previews/responsive_email/WINDOWSPHONE8_window_on.png"},
+				{"group": "responsive-email", "title": "Yahoo - No Image",  "src": "images/previews/responsive_email/YAHOO_full_off.png"},
+				{"group": "responsive-email", "title": "Yahoo - Full",  "src": "images/previews/responsive_email/YAHOO_full_on.png"}
 			],
 			"link": "",
 			"source": "",
-			"used": "HTML 4.01, CSS, Google Font API",
-			
+			"used": "HTML 4.01, CSS, Google Font API",			
 			"date": "November 2014"
 		},
 		{
@@ -64,7 +102,7 @@
 				{"group": "chess", "src": "images/previews/chess1.png"},
 				{"group": "chess", "src": "images/previews/chess2.png"}
 			],
-			"link": "//goo.gl/mmgGYK",
+			"link": "//goo.gl/QYc5y8",
 			"source": "",
 			"used": "Android Ant, Bluetooth Connection",
 			
@@ -361,7 +399,7 @@
 	],
 	"myRate" : [
 		{
-			"rate": 95,
+			"rate": 90,
 			"skill": "Linux",
 			"enumerate": [
 				{
@@ -379,7 +417,7 @@
 			]
 		},
 		{
-			"rate": 87,
+			"rate": 67,
 			"skill": "BSD",
 			"enumerate": [
 				{
@@ -388,7 +426,7 @@
 			]
 		},
 		{
-			"rate": 94,
+			"rate": 87,
 			"skill": "Back-end Web Development",
 			"enumerate": [
 				{
@@ -436,7 +474,7 @@
 			]
 		},
 				{
-			"rate": 92,
+			"rate": 87,
 			"skill": "Front-end Web Development",
 			"enumerate": [
 				{
@@ -469,7 +507,7 @@
 			]
 		},
 		{
-			"rate": 88,
+			"rate": 82,
 			"skill": "Template Engines",
 			"enumerate": [
 				{
@@ -481,7 +519,7 @@
 			]					
 		},
 		{
-			"rate": 90,
+			"rate": 85,
 			"skill": "CMS",
 			"enumerate": [
 				{
@@ -493,7 +531,7 @@
 			]
 		},
 		{
-			"rate": 91,
+			"rate": 83,
 			"skill": "Stacks",
 			"enumerate": [
 				{
@@ -517,7 +555,7 @@
 			]
 		},
 			{
-			"rate": 87,
+			"rate": 84,
 			"skill": "DBMS",
 			"enumerate": [
 				{
@@ -542,7 +580,7 @@
 		},
 
 				{
-			"rate": 82,
+			"rate": 65,
 			"skill": "Test Driven Development",
 			"enumerate": [
 				{
@@ -557,7 +595,7 @@
 			]					
 		},
 		{
-			"rate": 88,
+			"rate": 78,
 			"skill": "PaaS",
 			"enumerate": [
 				{
@@ -571,8 +609,23 @@
 				}
 			]
 		},
+		{
+			"rate": 68,
+			"skill": "BaaS",
+			"enumerate": [
+				{
+					"name": "Facebook API"
+				},
+				{
+					"name": "Twitter API"
+				},
+				{
+					"name": "Google API"
+				}
+			]
+		},
 						{
-			"rate": 89,
+			"rate": 80,
 			"skill": "Design Patterns",
 			"enumerate": [
 				{
@@ -584,7 +637,7 @@
 			]					
 		},
 		{
-			"rate": 88,
+			"rate": 81,
 			"skill": "Mobile App Development",
 			"enumerate": [
 				{
@@ -602,7 +655,7 @@
 			]
 		},
 		{
-			"rate": 84,
+			"rate": 75,
 			"skill": "Desktop App Development",
 			"enumerate": [
 				{
@@ -620,7 +673,7 @@
 			]
 		},		
 		{
-			"rate": 86,
+			"rate": 77,
 			"skill": "Report Designers",
 			"enumerate": [
 				{
