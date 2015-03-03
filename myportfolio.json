@@ -388,18 +388,18 @@
 			"line": "I'm an enthusiast Mobile / Web App developer. A former BSN undergrad who shifted to the real world of IT, my beloved path."
 		},
 		{
-			"line": "I love technologies so much, or even concepts and principles as it's hard for me to describe them. I love any kind of games also. Lol."
+			"line": "I love technologies so much, or even concepts and principles as it's very hard for me to describe them."
 		},
 		{
-			"line": "My fortes are Linux, PHP, HTML5, CSS, Javascript, Java, and BASH scripting. Soon to be a Ruby or Go lover."
+			"line": "My fortes are Linux, PHP, HTML5, CSS, Javascript."
 		},
 		{
-			"line": "Thanks for vising my portfolio site. I'm very glad to be a part of your business family, and write quality codes for you."
+			"line": "Thanks for visiting my portfolio site. I'm very glad to be a part of your business family, and write quality codes for you."
 		}
 	],
 	"myRate" : [
 		{
-			"rate": 90,
+			"rate": 60,
 			"skill": "Linux",
 			"enumerate": [
 				{
@@ -417,7 +417,7 @@
 			]
 		},
 		{
-			"rate": 67,
+			"rate": 27,
 			"skill": "BSD",
 			"enumerate": [
 				{
@@ -426,7 +426,7 @@
 			]
 		},
 		{
-			"rate": 87,
+			"rate": 45,
 			"skill": "Back-end Web Development",
 			"enumerate": [
 				{
@@ -448,7 +448,7 @@
 					"name": "REST"
 				},
 				{
-					"name": "Laravel 3/4"
+					"name": "Laravel 3/4/5"
 				},
 				{
 					"name": "Ruby on Rails"
@@ -474,7 +474,7 @@
 			]
 		},
 				{
-			"rate": 87,
+			"rate": 50,
 			"skill": "Front-end Web Development",
 			"enumerate": [
 				{
@@ -496,18 +496,18 @@
 					"name": "Modernizr"
 				},
 				{
-					"name": "RequireJS"
-				},
-				{
 					"name": "Sass"
 				},
 				{
 					"name": "Less"
+				},
+				{
+					"name": "Coffee Script"
 				}
 			]
 		},
 		{
-			"rate": 82,
+			"rate": 40,
 			"skill": "Template Engines",
 			"enumerate": [
 				{
@@ -519,7 +519,7 @@
 			]					
 		},
 		{
-			"rate": 85,
+			"rate": 40,
 			"skill": "CMS",
 			"enumerate": [
 				{
@@ -531,7 +531,7 @@
 			]
 		},
 		{
-			"rate": 83,
+			"rate": 53,
 			"skill": "Stacks",
 			"enumerate": [
 				{
@@ -555,7 +555,7 @@
 			]
 		},
 			{
-			"rate": 84,
+			"rate": 38,
 			"skill": "DBMS",
 			"enumerate": [
 				{
@@ -580,7 +580,7 @@
 		},
 
 				{
-			"rate": 65,
+			"rate": 25,
 			"skill": "Test Driven Development",
 			"enumerate": [
 				{
@@ -595,7 +595,7 @@
 			]					
 		},
 		{
-			"rate": 78,
+			"rate": 40,
 			"skill": "PaaS",
 			"enumerate": [
 				{
@@ -610,7 +610,7 @@
 			]
 		},
 		{
-			"rate": 68,
+			"rate": 33,
 			"skill": "BaaS",
 			"enumerate": [
 				{
@@ -625,11 +625,14 @@
 			]
 		},
 						{
-			"rate": 80,
+			"rate": 40,
 			"skill": "Design Patterns",
 			"enumerate": [
 				{
 					"name": "MVC"
+				},
+				{
+					"name": "Repository Design"
 				},
 				{
 					"name": "SOLID"
@@ -637,7 +640,7 @@
 			]					
 		},
 		{
-			"rate": 81,
+			"rate": 32,
 			"skill": "Mobile App Development",
 			"enumerate": [
 				{
@@ -650,12 +653,12 @@
 					"name": "PhoneGap"
 				},
 				{
-					"name": "Cordova"
+					"name": "Ionic Framework"
 				}
 			]
 		},
 		{
-			"rate": 75,
+			"rate": 25,
 			"skill": "Desktop App Development",
 			"enumerate": [
 				{
@@ -673,7 +676,7 @@
 			]
 		},		
 		{
-			"rate": 77,
+			"rate": 37,
 			"skill": "Report Designers",
 			"enumerate": [
 				{
@@ -687,10 +690,16 @@
 	],
 	"tools": [
 		{
-			"caption": "Favorite Tools",
+			"caption": "Work Tools",
 			"enumerate": [
 				{
 					"name": "Sublime Text 2/3"
+				},
+				{
+					"name": "PHPStorm"
+				},
+				{
+					"name": "RubyMine"
 				},
 				{
 					"name": "Git"
@@ -708,16 +717,19 @@
 					"name": "Foundation"
 				},
 				{
+					"name": "Flat-UI"
+				},
+				{
+					"name": "Materialize"
+				},
+				{
 					"name": "Eclipse"
 				},
 				{
-					"name": "Android Studio"
-				},
-				{
-					"name": "Visual Studio"
-				},
-				{
 					"name": "RVM"
+				},
+				{
+					"name": "NPM"
 				},
 				{
 					"name": "Composer"
@@ -730,9 +742,6 @@
 				},
 				{
 					"name": "Gulp"
-				},
-				{
-					"name": "Compass"
 				}
 			]					
 		}
