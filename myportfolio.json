@@ -1,4 +1,6 @@
 {
+	"name": "Brigido Alejo",
+	"email": "brigsalejo@gmail.com",
 	"messages": [
 		{
 			"message" : [
@@ -227,8 +229,8 @@
 				{"alt": "", "src": ""},
 				{"alt": "", "src": ""}
 			],
-			"link": "",
-			"source": "//github.com/vrigzonline/InternetSecurity",
+			"link": "//goo.gl/zmd7M9",
+			"source": "",
 			"used": "Node.js, Express, Socket.IO, Impress, Impress-server, Grunt, Handlebars, Yeoman",
 			"date": "September 2014"
 		},
@@ -454,7 +456,7 @@
 					"name": "Ruby on Rails"
 				},								
 				{
-					"name": "Node"
+					"name": "NodeJS"
 				},
 				{
 					"name": "Express"
@@ -580,7 +582,7 @@
 		},
 
 				{
-			"rate": 25,
+			"rate": 18,
 			"skill": "Test Driven Development",
 			"enumerate": [
 				{
@@ -591,7 +593,14 @@
 				},
 				{
 					"name": "Karma"
+				},
+				{
+					"name": "PHPUnit"
+				},
+				{
+					"name": "MiniTest (Ruby)"
 				}
+
 			]					
 		},
 		{
