@@ -404,7 +404,7 @@
 			"line": "I'm using nicknames such as Brigs or Vrigz most of the time because of conveniency."
 		},
 		{
-			"line": "I love technologies so much, or even concepts and principles as it's very hard for me to describe them."
+			"line": "I love technologies so much, or even concepts and principles as it's very hard for me to delineate them."
 		},
 		{
 			"line": "My fortes are Linux, PHP, HTML5, CSS, Javascript."
@@ -707,6 +707,9 @@
 				},
 				{
 					"name": "Pentaho"
+				},
+				{
+					"name": "Jasper Reports / iReport Designer"
 				}
 			]
 		}
