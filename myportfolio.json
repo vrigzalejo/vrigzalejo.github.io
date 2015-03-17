@@ -29,6 +29,17 @@
 	],
 	"portfolio": [
 		{
+			"title": "eProcurement",
+			"background": "images/portfolio23.png",
+			"images": [
+				{"group": "usermanager", "title": "", "src": "#"}
+			],
+			"link": "",
+			"source": "",
+			"used": "Laravel 4.*, Sentry 2.1, Usermanager, Gulp, Bower, jQuery, FlatUI, Bootstrap, LEMPP, HHVM, Vagrant, Redis, Modernizr, TinyMCE",			
+			"date": "December 2014"
+		},
+		{
 			"title": "Usermanager",
 			"background": "images/portfolio22.png",
 			"images": [
@@ -290,25 +301,10 @@
 			"used": "REST, LLMPP/LAMPP, Redis, CSS3, Javascript, jQuery, Bootstrap, Laravel, Angular, Modernizr",
 			"date": "December 2013"
 		},
-						{
-			"title": "ProDev Snippets",
-			"description": "",
-			"background": "images/portfolio7.png",
-			"images": [
-				{"alt": "", "src": ""},
-				{"alt": "", "src": ""},
-				{"alt": "", "src": ""},
-				{"alt": "", "src": ""}
-			],
-			"link": "//goo.gl/UBQAST",
-			"source": "",
-			"used": "CSS3, Bootstrap, Javascript, jQuery, Laravel, Markdown library, Git, Facebook API",
-			"date": "November 2013"
-		},
-								{
+		{
 			"title": "Kantang Pambata",
 			"description": "",
-			"background": "images/portfolio6.png",
+			"background": "images/portfolio7.png",
 			"images": [
 				{"alt": "", "src": ""},
 				{"alt": "", "src": ""},
@@ -323,7 +319,7 @@
 		{
 			"title": "PDDWM",
 			"description": "",
-			"background": "images/portfolio5.png",
+			"background": "images/portfolio6.png",
 			"images": [
 				{"alt": "", "src": ""},
 				{"alt": "", "src": ""},
@@ -338,7 +334,7 @@
 		{
 			"title": "Vrigz Online",
 			"description": "",
-			"background": "images/portfolio4.png",
+			"background": "images/portfolio5.png",
 			"images": [
 				{"alt": "", "src": ""},
 				{"alt": "", "src": ""},
@@ -349,6 +345,21 @@
 			"source": "",
 			"used": "Wordpress, Facebook API",
 			"date": "May 2013"
+		},
+		{
+			"title": "ProDev Snippets",
+			"description": "",
+			"background": "images/portfolio7.png",
+			"images": [
+				{"alt": "", "src": ""},
+				{"alt": "", "src": ""},
+				{"alt": "", "src": ""},
+				{"alt": "", "src": ""}
+			],
+			"link": "//goo.gl/UBQAST",
+			"source": "",
+			"used": "CSS3, Bootstrap, Javascript, jQuery, Laravel, Markdown library, Git, Facebook API",
+			"date": "January 2013"
 		},
 		{
 			"title": "Document Management System",
