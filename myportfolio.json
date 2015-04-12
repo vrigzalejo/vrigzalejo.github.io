@@ -596,12 +596,15 @@
 					"name": "Wordpress"
 				},
 				{
+					"name": "Concrete5"
+				},
+				{
 					"name": "Ghost"
 				}
 			]
 		},
 		{
-			"rate": 53,
+			"rate": 48,
 			"skill": "Stacks",
 			"enumerate": [
 				{
@@ -698,6 +701,15 @@
 				},
 				{
 					"name": "Google API"
+				},
+				{
+					"name": "Twilio API"
+				},
+				{
+					"name": "Github API"
+				},
+				{
+					"name": "Disqus API"
 				}
 			]
 		},
@@ -712,7 +724,7 @@
 					"name": "Repository Design"
 				},
 				{
-					"name": "SOLID"
+					"name": "Factory Method Design Pattern"
 				}
 			]					
 		},
@@ -727,7 +739,7 @@
 					"name": "Java"
 				},
 				{
-					"name": "PhoneGap"
+					"name": "Cordova"
 				},
 				{
 					"name": "Ionic Framework"
@@ -773,22 +785,46 @@
 			"caption": "Work Tools",
 			"enumerate": [
 				{
-					"name": "Sublime Text 2/3"
+					"name": "Composer"
+				},
+				{
+					"name": "Sublime Text"
 				},
 				{
 					"name": "PHPStorm"
 				},
 				{
+					"name": "WebStorm"
+				},
+				{
 					"name": "RubyMine"
+				},
+				{
+					"name": "Android Studio"
+				},
+				{
+					"name": "Eclipse"
+				},
+				{
+					"name": "Photoshop"
+				},
+				{
+					"name": "Gimp"
+				},
+				{
+					"name": "Inkscape"
+				},
+				{
+					"name": "Darktable"
+				},
+				{
+					"name": "Lightroom"
 				},
 				{
 					"name": "Git"
 				},
 				{
 					"name": "Bower"
-				},
-				{
-					"name": "Vim"
 				},
 				{
 					"name": "Bootstrap"
@@ -803,16 +839,13 @@
 					"name": "Materialize"
 				},
 				{
-					"name": "Eclipse"
-				},
-				{
 					"name": "RVM"
 				},
 				{
 					"name": "NPM"
 				},
 				{
-					"name": "Composer"
+					"name": "Trello"
 				},
 				{
 					"name": "Yeoman"
@@ -822,6 +855,12 @@
 				},
 				{
 					"name": "Gulp"
+				},
+				{
+					"name": "Vagrant"
+				},
+				{
+					"name": "Vim"
 				}
 			]					
 		}
