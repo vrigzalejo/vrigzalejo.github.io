@@ -77,7 +77,16 @@
 			"title": "Usermanager",
 			"background": "images/portfolio22.png",
 			"images": [
-				{"group": "usermanager", "title": "", "src": "#"}
+				{ "group": "usermanager", "title": "Login", "src": "images/previews/Usermanager/login.png" },
+				{ "group": "usermanager", "title": "New Group", "src": "images/previews/Usermanager/new_group.png" },
+				{ "group": "usermanager", "title": "New Permission", "src": "images/previews/Usermanager/new_permission.png" },
+				{ "group": "usermanager", "title": "New User", "src": "images/previews/Usermanager/new_user.png" },
+				{ "group": "usermanager", "title": "Update Group", "src": "images/previews/Usermanager/update_group.png" },
+				{ "group": "usermanager", "title": "Update Permission", "src": "images/previews/Usermanager/update_permission.png" },
+				{ "group": "usermanager", "title": "Update User", "src": "images/previews/Usermanager/update_user.png" },
+				{ "group": "usermanager", "title": "View Groups", "src": "images/previews/Usermanager/view_groups.png" },
+				{ "group": "usermanager", "title": "View Permissions", "src": "images/previews/Usermanager/view_permissions.png" },
+				{ "group": "usermanager", "title": "View Users", "src": "images/previews/Usermanager/view_users.png" }
 			],
 			"link": "//goo.gl/8hOIUJ",
 			"source": "//goo.gl/4n8i3U",
