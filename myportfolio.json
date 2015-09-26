@@ -70,7 +70,7 @@
 			],
 			"link": "",
 			"source": "",
-			"used": "Laravel 4.*, Sentry 2.1, Usermanager, Gulp, Bower, jQuery, FlatUI, Bootstrap, LEMPP, HHVM, Vagrant, Redis, Modernizr, TinyMCE",
+			"used": "Laravel 4.*, Sentry 2.1, Usermanager, Gulp, Bower, jQuery, FlatUI, Bootstrap, LEMPP, HHVM, Vagrant, Redis, Modernizr, TinyMCE",			
 			"date": "December 2014"
 		},
 		{
@@ -90,7 +90,7 @@
 			],
 			"link": "//goo.gl/8hOIUJ",
 			"source": "//goo.gl/4n8i3U",
-			"used": "FlatUI, Bootstrap, Laravel 4+, jQuery, Sentry 2.1, Mockery, PHPUnit",
+			"used": "FlatUI, Bootstrap, Laravel 4+, jQuery, Sentry 2.1, Mockery, PHPUnit",			
 			"date": "December 2014"
 		},
 		{
@@ -107,34 +107,34 @@
 				{"group": "responsive-email", "title": "Blackberry HTML - Full",  "src": "images/previews/responsive-email/BLACKBERRYHTML_full_on.png"},
 				{"group": "responsive-email", "title": "Blackberry HTML - Window",  "src": "images/previews/responsive-email/BLACKBERRYHTML_window_on.png"},
 				{"group": "responsive-email", "title": "Gmail - Chrome Full",  "src": "images/previews/responsive-email/CHROMEGMAILNEW_full_on.png"},
-				{"group": "responsive-email", "title": "Gmail - Chrome Window",  "src": "images/previews/responsive-email/CHROMEGMAILNEW_window_on.png"},
+				{"group": "responsive-email", "title": "Gmail - Chrome Window",  "src": "images/previews/responsive-email/CHROMEGMAILNEW_window_on.png"},	
 				{"group": "responsive-email", "title": "Yahoo - Chrome Full",  "src": "images/previews/responsive-email/CHROMEYAHOO_full_on.png"},
-				{"group": "responsive-email", "title": "For color blinded - Full",  "src": "images/previews/responsive-email/COLORBLIND_full_on.png"},
+				{"group": "responsive-email", "title": "For color blinded - Full",  "src": "images/previews/responsive-email/COLORBLIND_full_on.png"},	
 				{"group": "responsive-email", "title": "AOL Online - FireFox No Image",  "src": "images/previews/responsive-email/FFAOLONLINE_full_off.png"},
-				{"group": "responsive-email", "title": "AOL Online - FireFox Full",  "src": "images/previews/responsive-email/FFAOLONLINE_full_on.png"},
+				{"group": "responsive-email", "title": "AOL Online - FireFox Full",  "src": "images/previews/responsive-email/FFAOLONLINE_full_on.png"},	
 				{"group": "responsive-email", "title": "Gmail - FireFox Full",  "src": "images/previews/responsive-email/FFGMAILNEW_full_on.png"},
-				{"group": "responsive-email", "title": "Outlook - FireFox Full",  "src": "images/previews/responsive-email/FFOUTLOOKCOM_full_on.png"},
+				{"group": "responsive-email", "title": "Outlook - FireFox Full",  "src": "images/previews/responsive-email/FFOUTLOOKCOM_full_on.png"},	
 				{"group": "responsive-email", "title": "Yahoo - FireFox No Image",  "src": "images/previews/responsive-email/FFYAHOO_full_off.png"},
-				{"group": "responsive-email", "title": "Yahoo - FireFox Full",  "src": "images/previews/responsive-email/FFYAHOO_full_on.png"},
+				{"group": "responsive-email", "title": "Yahoo - FireFox Full",  "src": "images/previews/responsive-email/FFYAHOO_full_on.png"},	
 				{"group": "responsive-email", "title": "Gmail - Full",  "src": "images/previews/responsive-email/GMAILNEW_full_on.png"},
-				{"group": "responsive-email", "title": "IPad - Full",  "src": "images/previews/responsive-email/IPAD_full_on.png"},
+				{"group": "responsive-email", "title": "IPad - Full",  "src": "images/previews/responsive-email/IPAD_full_on.png"},	
 				{"group": "responsive-email", "title": "IPad Mini - Full",  "src": "images/previews/responsive-email/IPADMINI_full_on.png"},
-				{"group": "responsive-email", "title": "Iphone 4 - Full",  "src": "images/previews/responsive-email/IPHONE4_full_on.png"},
+				{"group": "responsive-email", "title": "Iphone 4 - Full",  "src": "images/previews/responsive-email/IPHONE4_full_on.png"},	
 				{"group": "responsive-email", "title": "Iphone 5 - Full",  "src": "images/previews/responsive-email/IPHONE5_full_on.png"},
-				{"group": "responsive-email", "title": "Iphone 5S - Full",  "src": "images/previews/responsive-email/IPHONE5S_full_on.png"},
+				{"group": "responsive-email", "title": "Iphone 5S - Full",  "src": "images/previews/responsive-email/IPHONE5S_full_on.png"},	
 				{"group": "responsive-email", "title": "Iphone 6 - Full",  "src": "images/previews/responsive-email/IPHONE6_full_on.png"},
-				{"group": "responsive-email", "title": "Iphone 6 Plus - Full",  "src": "images/previews/responsive-email/IPHONE6PLUS_full_on.png"},
+				{"group": "responsive-email", "title": "Iphone 6 Plus - Full",  "src": "images/previews/responsive-email/IPHONE6PLUS_full_on.png"},	
 				{"group": "responsive-email", "title": "Lotus Notes 6 - Full",  "src": "images/previews/responsive-email/NOTES6_full_on.png"},
 				{"group": "responsive-email", "title": "Lotus Notes 7 - Full",  "src": "images/previews/responsive-email/NOTES7_full_on.png"},
-				{"group": "responsive-email", "title": "Outlook 2003 - No Image",  "src": "images/previews/responsive-email/OL2003_full_off.png"},
+				{"group": "responsive-email", "title": "Outlook 2003 - No Image",  "src": "images/previews/responsive-email/OL2003_full_off.png"},	
 				{"group": "responsive-email", "title": "Outlook 2007 - No Image",  "src": "images/previews/responsive-email/OL2007_full_off.png"},
 				{"group": "responsive-email", "title": "Outlook 2007 - Full",  "src": "images/previews/responsive-email/OL2007_full_on.png"},
-				{"group": "responsive-email", "title": "Outlook 2010 - No Image",  "src": "images/previews/responsive-email/OL2010_full_off.png"},
+				{"group": "responsive-email", "title": "Outlook 2010 - No Image",  "src": "images/previews/responsive-email/OL2010_full_off.png"},	
 				{"group": "responsive-email", "title": "Outlook 2010 - Full",  "src": "images/previews/responsive-email/OL2010_full_on.png"},
-				{"group": "responsive-email", "title": "Outlook 2011 - Full",  "src": "images/previews/responsive-email/OL2011_full_on.png"},
+				{"group": "responsive-email", "title": "Outlook 2011 - Full",  "src": "images/previews/responsive-email/OL2011_full_on.png"},	
 				{"group": "responsive-email", "title": "Outlook 2013 - No Image",  "src": "images/previews/responsive-email/OL2013_full_off.png"},
 				{"group": "responsive-email", "title": "Outlook 2013 - Full",  "src": "images/previews/responsive-email/OL2013_full_on.png"},
-				{"group": "responsive-email", "title": "Outlook.com - Full",  "src": "images/previews/responsive-email/OUTLOOKCOM_full_on.png"},
+				{"group": "responsive-email", "title": "Outlook.com - Full",  "src": "images/previews/responsive-email/OUTLOOKCOM_full_on.png"},	
 				{"group": "responsive-email", "title": "ThunderBird - No Image",  "src": "images/previews/responsive-email/THUNDERBIRDLATEST_full_off.png"},
 				{"group": "responsive-email", "title": "Windows Phone 8 - Full",  "src": "images/previews/responsive-email/WINDOWSPHONE8_full_on.png"},
 				{"group": "responsive-email", "title": "Windows Phone 8 - Window",  "src": "images/previews/responsive-email/WINDOWSPHONE8_window_on.png"},
@@ -143,7 +143,7 @@
 			],
 			"link": "",
 			"source": "",
-			"used": "HTML 4.01, CSS, Google Font API",
+			"used": "HTML 4.01, CSS, Google Font API",			
 			"date": "November 2014"
 		},
 		{
@@ -158,7 +158,7 @@
 			"link": "//goo.gl/rV3ik2",
 			"source": "",
 			"used": "REST, API-Centric, LLMPP/LAMPP, Redis, Laravel, Sentry, Gravatar, jQuery, Zurb, Bootstrap, FontAwesome, Modernizr, AngularJS, PSR-0",
-
+			
 			"date": "July 2014"
 		},
 		{
@@ -172,7 +172,7 @@
 			"link": "//goo.gl/QYc5y8",
 			"source": "",
 			"used": "Android Ant, Bluetooth Connection",
-
+			
 			"date": "May 2014"
 		},
 		{
@@ -188,7 +188,7 @@
 			"link": "",
 			"source": "//goo.gl/OOPXWE",
 			"used": "HTML5, CSS3, Javascript",
-
+			
 			"date": "April 2014"
 		},
 		{
@@ -204,7 +204,7 @@
 			"link": "",
 			"source": "//github.com/vrigzonline/DesserDroid",
 			"used": "Android Ant, Sherlock Action Bar, MenuDrawer, SQLite",
-
+			
 			"date": "February 2014"
 		},
 		{
@@ -220,7 +220,7 @@
 			"link": "//goo.gl/KFgX9I",
 			"source": "",
 			"used": "REST, LLMPP/LAMPP, Redis, Twilio API, CSS3, Javascript, jQuery, Bootstrap, Laravel",
-
+			
 			"date": "February 2014"
 		},
 		{
@@ -236,7 +236,7 @@
 			"link": "//goo.gl/tGk8Eo",
 			"source": "",
 			"used": "Android Ant, PHP OOP, MySQL, LLMPP, Sherlock Action Bar, WLAN Connection",
-
+			
 			"date": "December 2013"
 		},
 		{
@@ -522,7 +522,7 @@
 				},
 				{
 					"name": "Ruby on Rails"
-				},
+				},								
 				{
 					"name": "NodeJS"
 				},
@@ -586,7 +586,7 @@
 				{
 					"name": "Blade"
 				}
-			]
+			]					
 		},
 		{
 			"rate": 40,
@@ -608,22 +608,22 @@
 			"skill": "Stacks",
 			"enumerate": [
 				{
-					"name": "LAMPP"
+					"name": "LAMPP" 
 				},
 				{
 					"name": "LLMPP"
 				},
 				{
-					"name": "LEMPP"
+					"name": "LEMPP" 
 				},
 				{
-					"name": "MEAN"
+					"name": "MEAN" 
 				},
 				{
-					"name": "XAMPP"
+					"name": "XAMPP" 
 				},
 				{
-					"name": "WAMP"
+					"name": "WAMP" 
 				}
 			]
 		},
@@ -649,7 +649,7 @@
 				{
 					"name": "MS Access"
 				}
-			]
+			]					
 		},
 
 				{
@@ -672,7 +672,7 @@
 					"name": "MiniTest (Ruby)"
 				}
 
-			]
+			]					
 		},
 		{
 			"rate": 40,
@@ -726,7 +726,7 @@
 				{
 					"name": "Factory Method Design Pattern"
 				}
-			]
+			]					
 		},
 		{
 			"rate": 32,
@@ -763,7 +763,7 @@
 					"name": "Java"
 				}
 			]
-		},
+		},		
 		{
 			"rate": 37,
 			"skill": "Report Designers",
@@ -862,7 +862,7 @@
 				{
 					"name": "Vim"
 				}
-			]
+			]					
 		}
 	],
 	"pAnimations": [
@@ -872,6 +872,20 @@
 			"info": "p1-info",
 			"front": "p1-info-front",
 			"back": "p1-info-back"
+		}
+	],
+	"ads" : [
+		{
+			"adsUrl": "http://vtigzonline.sharethisstory.net/ph-274146-1908?utm_source=&utm_medium=&utm_campaign="
+		},
+		{
+			"adsUrl": "http://vtigzonline.sharethisstory.net/ph-274146-11"
+		},
+		{
+			"adsUrl": "http://brigsalejo.sharethisstory.net/ph-474924-11?utm_source=&utm_medium=&utm_campaign="
+		},
+		{
+			"adsUrl": "http://brigsalejo.sharethisstory.net/ph-474924-1908?utm_source=&utm_medium=&utm_campaign="
 		}
 	]
 }
